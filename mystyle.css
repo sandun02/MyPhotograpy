@@ -1,0 +1,41 @@
+div.header{
+    background-color:#003300;
+    color : rgb(230, 230, 230);
+    }
+
+div.footer{
+        background-color:#003300;
+         position: fixed;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          height:6%;
+          color: white;
+          text-align: center;
+    } 
+    
+    hr {
+        position: relative;
+        top: 0px;
+        border: none;
+        height: 6px;
+        background: black;
+        margin-bottom: 10px;
+    }  
+    .footer  a:link, a:visited {
+        background-color: #aeac9b;
+        color: black;
+        padding: 8px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }  
+
+    
+    div.h{
+    text-align:center;
+    }  
+
+    p.Tell{
+        text-align: left;
+    }
